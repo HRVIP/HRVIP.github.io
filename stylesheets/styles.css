@@ -322,3 +322,11 @@ footer {
     color:#444;
   }
 }
+
+.links {
+  text-align: center;
+}
+
+.links a {
+  margin-right: 20px;
+}
