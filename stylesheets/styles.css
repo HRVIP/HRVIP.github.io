@@ -327,6 +327,9 @@ footer {
   text-align: center;
 }
 
-.links a {
-  margin-right: 20px;
+.logo {
+  max-height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
