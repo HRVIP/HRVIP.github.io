@@ -104,7 +104,6 @@ img {
 header {
   width:270px;
   float:left;
-  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -205,10 +204,6 @@ footer {
     width:auto;
   }
 
-  header {
-    padding-right:320px;
-  }
-
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
@@ -276,4 +271,26 @@ footer {
   margin-left: auto;
   margin-right: auto;
   display: block;
+}
+
+.center-title {
+  text-align: center;
+  display: inline-block;
+}
+
+.container {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 100%;
+}
+
+.container img {
+  width: 100%;
+}
+
+.person-post {
+  display: inline-block;
+  width: 150px;
+  padding: 5px;
 }

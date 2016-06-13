@@ -1,0 +1,52 @@
+---
+layout: post
+title: People
+---
+{% for post in site.posts %}
+  {% if post.categories contains 'professor' %}
+    <div class="post person-post">
+        <h3 class="title center-title">
+            <a href="{{ post.url }}">{{ post.title }}
+                <br>
+                <div class="container">
+                    <img class="person" src={{ post.image }}>
+                </div>
+            </a>
+        </h3>
+    </div>
+  {% endif %}
+{% endfor %}
+
+<br><br>
+
+{% for post in site.posts %}
+  {% if post.categories contains 'graduate' %}
+    <div class="post person-post">
+        <h3 class="title center-title">
+            <a href="{{ post.url }}">{{ post.title }}
+                <br>
+                <div class="container">
+                    <img class="person" src={{ post.image }}>
+                </div>
+            </a>
+        </h3>
+    </div>
+  {% endif %}
+{% endfor %}
+
+<br><br>
+
+{% for post in site.posts %}
+  {% if post.categories contains 'undergraduate' %}
+    <div class="post person-post">
+        <h3 class="title center-title">
+            <a href="{{ post.url }}">{{ post.title }}
+                <br>
+                <div class="container">
+                    <img class="person" src={{ post.image }}>
+                </div>
+            </a>
+        </h3>
+    </div>
+  {% endif %}
+{% endfor %}
