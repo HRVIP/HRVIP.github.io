@@ -2,7 +2,7 @@
 layout: default
 category: graduate
 title: 'Alan Carey'
-image: '/scraped/images/Alan%20Carey.jpg'
+image: '/images/Alan%20Carey.jpg'
 ---
 
 <img src="{{ page.image }}">

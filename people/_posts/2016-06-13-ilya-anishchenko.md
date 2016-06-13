@@ -2,7 +2,7 @@
 layout: default
 category: graduate
 title: 'Ilya Anishchenko'
-image: '/scraped/images/Ilya%20Anishchenko.jpg'
+image: '/images/Ilya%20Anishchenko.jpg'
 ---
 
 <img src="{{ page.image }}">

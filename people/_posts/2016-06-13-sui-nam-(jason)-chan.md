@@ -2,7 +2,7 @@
 layout: default
 category: graduate
 title: 'Sui Nam (Jason) Chan'
-image: '/scraped/images/Sui%20Nam%20(Jason)%20Chan.jpg'
+image: '/images/Sui%20Nam%20(Jason)%20Chan.jpg'
 ---
 
 <img src="{{ page.image }}">

@@ -2,7 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Kasumi Kanetaka'
-image: '/scraped/images/Kasumi%20Kanetaka.jpeg'
+image: '/images/Kasumi%20Kanetaka.jpeg'
 ---
 
 <img src="{{ page.image }}">

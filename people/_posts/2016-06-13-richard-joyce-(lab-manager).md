@@ -2,7 +2,7 @@
 layout: default
 category: graduate
 title: 'Richard Joyce (Lab Manager)'
-image: '/scraped/images/Richard%20Joyce%20(Lab%20Manager).jpg'
+image: '/images/Richard%20Joyce%20(Lab%20Manager).jpg'
 ---
 
 <img src="{{ page.image }}">

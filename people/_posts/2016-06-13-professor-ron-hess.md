@@ -2,7 +2,7 @@
 layout: default
 category: professor
 title: 'Professor Ron Hess'
-image: '/scraped/images/Professor%20Ron%20Hess.jpg'
+image: '/images/Professor%20Ron%20Hess.jpg'
 ---
 
 <img src="{{ page.image }}">

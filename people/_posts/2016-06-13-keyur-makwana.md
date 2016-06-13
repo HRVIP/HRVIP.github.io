@@ -2,7 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Keyur Makwana'
-image: '/scraped/images/Keyur%20Makwana.jpg'
+image: '/images/Keyur%20Makwana.jpg'
 ---
 
 <img src="{{ page.image }}">

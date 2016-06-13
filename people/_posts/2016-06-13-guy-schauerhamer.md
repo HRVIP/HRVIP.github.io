@@ -2,7 +2,7 @@
 layout: default
 category: graduate
 title: 'Guy Schauerhamer'
-image: '/scraped/images/Guy%20Schauerhamer.png'
+image: '/images/Guy%20Schauerhamer.png'
 ---
 
 <img src="{{ page.image }}">

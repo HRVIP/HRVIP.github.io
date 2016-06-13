@@ -2,7 +2,7 @@
 layout: default
 category: graduate
 title: 'John Karasinski'
-image: '/scraped/images/John%20Karasinski.jpeg'
+image: '/images/John%20Karasinski.jpeg'
 ---
 
 <img src="{{ page.image }}">

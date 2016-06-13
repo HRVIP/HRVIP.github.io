@@ -2,7 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Maxwell Drolet'
-image: '/scraped/images/Maxwell%20Drolet.jpg'
+image: '/images/Maxwell%20Drolet.jpg'
 ---
 
 <img src="{{ page.image }}">

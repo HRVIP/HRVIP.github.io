@@ -2,7 +2,7 @@
 layout: default
 category: graduate
 title: 'Sarah O’Meara'
-image: '/scraped/images/Sarah%20O’Meara.jpg'
+image: '/images/Sarah%20OMeara.jpg'
 ---
 
 <img src="{{ page.image }}">

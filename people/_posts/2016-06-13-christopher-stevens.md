@@ -2,7 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Christopher Stevens'
-image: '/scraped/images/Christopher%20Stevens.jpg'
+image: '/images/Christopher%20Stevens.jpg'
 ---
 
 <img src="{{ page.image }}">

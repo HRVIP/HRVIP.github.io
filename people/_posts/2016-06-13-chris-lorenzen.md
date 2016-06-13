@@ -2,7 +2,7 @@
 layout: default
 category: graduate
 title: 'Chris Lorenzen'
-image: '/scraped/images/Chris%20Lorenzen.jpg'
+image: '/images/Chris%20Lorenzen.jpg'
 ---
 
 <img src="{{ page.image }}">

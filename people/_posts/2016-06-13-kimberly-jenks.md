@@ -2,7 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Kimberly Jenks'
-image: '/scraped/images/Kimberly%20Jenks.jpg'
+image: '/images/Kimberly%20Jenks.jpg'
 ---
 
 <img src="{{ page.image }}">

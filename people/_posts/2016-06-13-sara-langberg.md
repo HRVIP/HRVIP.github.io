@@ -2,7 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Sara Langberg'
-image: '/scraped/images/Sara%20Langberg.png'
+image: '/images/Sara%20Langberg.png'
 ---
 
 <img src="{{ page.image }}">

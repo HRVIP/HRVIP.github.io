@@ -2,7 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Rina Onishi'
-image: '/scraped/images/Rina%20Onishi.jpg'
+image: '/images/Rina%20Onishi.jpg'
 ---
 
 <img src="{{ page.image }}">

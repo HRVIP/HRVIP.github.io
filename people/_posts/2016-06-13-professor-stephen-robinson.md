@@ -2,7 +2,7 @@
 layout: default
 category: professor
 title: 'Professor Stephen Robinson'
-image: '/scraped/images/Professor%20Stephen%20Robinson.jpg'
+image: '/images/Professor%20Stephen%20Robinson.jpg'
 ---
 
 <img src="{{ page.image }}">

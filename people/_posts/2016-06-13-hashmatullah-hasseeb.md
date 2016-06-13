@@ -2,7 +2,7 @@
 layout: default
 category: graduate
 title: 'Hashmatullah Hasseeb'
-image: '/scraped/images/Hashmatullah%20Hasseeb.jpg'
+image: '/images/Hashmatullah%20Hasseeb.jpg'
 ---
 
 <img src="{{ page.image }}">

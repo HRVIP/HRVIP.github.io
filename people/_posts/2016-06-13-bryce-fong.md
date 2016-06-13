@@ -2,7 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Bryce Fong'
-image: '/scraped/images/Bryce%20Fong.jpg'
+image: '/images/Bryce%20Fong.jpg'
 ---
 
 <img src="{{ page.image }}">

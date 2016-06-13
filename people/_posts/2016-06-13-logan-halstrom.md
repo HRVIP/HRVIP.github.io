@@ -2,7 +2,7 @@
 layout: default
 category: graduate
 title: 'Logan Halstrom'
-image: '/scraped/images/Logan%20Halstrom.jpg'
+image: '/images/Logan%20Halstrom.jpg'
 ---
 
 <img src="{{ page.image }}">

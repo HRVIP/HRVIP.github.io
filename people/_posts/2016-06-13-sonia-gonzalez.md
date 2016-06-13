@@ -2,7 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Sonia Gonzalez'
-image: '/scraped/images/Sonia%20Gonzalez.jpg'
+image: '/images/Sonia%20Gonzalez.jpg'
 ---
 
 <img src="{{ page.image }}">

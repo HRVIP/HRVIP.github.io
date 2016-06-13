@@ -2,7 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Russel Manalo'
-image: '/scraped/images/Russel%20Manalo.jpg'
+image: '/images/Russel%20Manalo.jpg'
 ---
 
 <img src="{{ page.image }}">

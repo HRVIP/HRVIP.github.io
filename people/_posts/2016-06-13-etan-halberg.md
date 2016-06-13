@@ -2,7 +2,7 @@
 layout: default
 category: graduate
 title: 'Etan Halberg'
-image: '/scraped/images/Etan%20Halberg.jpeg'
+image: '/images/Etan%20Halberg.jpeg'
 ---
 
 <img src="{{ page.image }}">
