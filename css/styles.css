@@ -1,6 +1,6 @@
 body {
   background-color: #fff;
-  padding:50px;
+  padding:0px;
   font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -29,6 +29,10 @@ h2 {
 
 h3, h4, h5, h6 {
   color:#494949;
+}
+
+img {
+    max-width: 100%;
 }
 
 a {
@@ -97,14 +101,18 @@ th {
   color:#444;
 }
 
-img {
-  max-width:100%;
-}
-
 header {
-  width:270px;
+  width:350px;
   float:left;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+header h1 {
+    font-size: 24px;
+}
+
+header .navbar {
+    font-size: 14px;
 }
 
 header ul {
@@ -191,6 +199,24 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+/* place title and logo on side */
+.title {
+  max-width: 500px;
+  padding: 10px;
+  padding-bottom: 5px;
+}
+
+.title .logo {
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.title span {
+    margin: 0 auto;
+    text-align: center;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -220,6 +246,31 @@ footer {
     right:50px;
     top:52px;
   }
+
+  /* place title and logo on top */
+  .title {
+      max-width: 500px;
+      height: 100px;
+      padding: 10px;
+      padding-bottom: 5px;
+  }
+
+  .title .logo {
+      float: left;
+      display: block;
+      width: 100px;
+      height: 100px;
+      margin-right: 10px;
+  }
+  .title span {
+      display: block;
+      overflow: auto;
+      text-align: left;
+  }
+  header h1 {
+      font-size: 28px;
+  }
+
 }
 
 @media print, screen and (max-width: 720px) {
@@ -240,7 +291,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width: 550px) {
   body {
     padding:15px;
   }
@@ -251,6 +302,42 @@ footer {
 
   header li, header ul li + li + li {
     width:33%;
+  }
+
+  /* place title and logo on top */
+  .title {
+      max-width: 500px;
+      padding: 10px;
+      padding-bottom: 5px;
+      height: auto;
+  }
+
+  .title .logo {
+      float: none;
+      display: block;
+      width: 150px;
+      height: 150px;
+      margin: 0 auto;
+  }
+  .title span {
+      margin: 0 auto;
+      text-align: center;
+  }
+  header h2 {
+      font-size: 18px;
+  }
+  header h1 {
+      font-size: 20px;
+  }
+}
+
+/* iphone <= 5, etc */
+@media print, screen and (max-width: 350px) {
+  header h1 {
+      font-size: 18px;
+  }
+  header .navbar {
+      font-size: 14px;
   }
 }
 
@@ -266,11 +353,32 @@ footer {
   text-align: center;
 }
 
-.logo {
-  max-height: 200px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+.title h1,h2 {
+    margin: 0;
+    color: #002855;
+}
+
+.title h2 {
+    font-variant: small-caps;
+}
+
+.navbar {
+    background: #002855 url('/images/navbar_gradient_dark_blue.gif') scroll repeat-x left top;
+    border-bottom: 2px #c99700 solid;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.navbar p {
+    margin: 0;
+}
+
+.navbar a {
+    color: #ffffff
+}
+
+.navbar a:hover {
+    color: #c99700;
 }
 
 .center-title {
