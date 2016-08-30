@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h3>Publications</h3>
+<ul>
+{% for publication in site.data.publications %}
+{% if publication.type == "conference" %}
+<li><b>{{ publication.authors }}</b> ({{publication.year}}). <a href="http://dx.doi.org/{{ publication.doi }}">"{{ publication.title }}"</a>, <i>{{ publication.publication }}.</i></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+<h3>Masters Theses</h3>
+<ul>
+{% for publication in site.data.publications %}
+{% if publication.type == "thesis" %}
+<li><b>{{ publication.authors }}</b> ({{publication.year}}). "{{ publication.title }}", University of California - Davis.</li>
+{% endif %}
+{% endfor %}
+</ul>
