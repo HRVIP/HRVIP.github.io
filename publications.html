@@ -3,6 +3,15 @@ layout: default
 ---
 
 <h3>Publications</h3>
+<h4>Upcoming</h4>
+<ul>
+{% for publication in site.data.publications %}
+{% if publication.type == "conference-upcoming" %}
+<li><b>{{ publication.authors }}</b> ({{publication.year}}). "{{ publication.title }}", <i>{{ publication.publication }}.</i> ({{ publication.status }})</li>
+{% endif %}
+{% endfor %}
+</ul>
+<h4>Conference Proceedings</h4>
 <ul>
 {% for publication in site.data.publications %}
 {% if publication.type == "conference" %}
@@ -15,7 +24,11 @@ layout: default
 <ul>
 {% for publication in site.data.publications %}
 {% if publication.type == "thesis" %}
-<li><b>{{ publication.authors }}</b> ({{publication.year}}). "{{ publication.title }}", University of California - Davis.</li>
+{% if publication.url ==  %}
+<li><b>{{ publication.authors }}</b> ({{publication.year}}). "{{ publication.title }}", University of California, Davis.</li>
+{% else %}
+<li><b>{{ publication.authors }}</b> ({{publication.year}}). <a href="{{publication.url}}">"{{ publication.title }}"</a>, University of California, Davis.</li>
+{% endif %}
 {% endif %}
 {% endfor %}
 </ul>
