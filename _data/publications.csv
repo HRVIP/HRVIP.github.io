@@ -1,14 +1,19 @@
-type,year,authors,title,publication,doi,url,status
-conference-upcoming,2017,John A. Karasinski and Stephen K. Robinson,Real-Time SAFER,"AIAA Modeling and Simulation Technologies Conference, AIAA SciTech",,,Accepted
-conference-upcoming,2017,Richard D. Joyce and Stephen K. Robinson,Passive Haptics to Enhance Virtual Reality Simulations,"AIAA Modeling and Simulation Technologies Conference, AIAA SciTech",,,Accepted
-conference-upcoming,2017,Daniel G. Schauerhamer and Stephen K. Robinson,Aircraft Geometry Effects in Wake Vortex Decay Simulations,"AIAA SciTech",,,Accepted
-conference-upcoming,2016,"E. Etan Halberg, Stephen K. Robinson, Rina Onishi and Nat J. Blaesser","An ISS Space Ambulance Based on X-37B Technology",AIAA SPACE,,,Accepted
-conference-upcoming,2016,Alan E. Carey and Stephen K. Robinson,Spacesuit Gloves,AIAA SPACE,,,Accepted
-conference,2016,Daniel G. Schauerhamer and Stephen K. Robinson,Sensitivity Study of Aircraft Wake Vortices Using OVERFLOW (Invited),"8th AIAA Atmospheric and Space Environments Conference, AIAA Aviation",10.2514/6.2016-3137,,
-conference,2016,Daniel G. Schauerhamer and Stephen K. Robinson,A Validation Study of OVERFLOW for Wing-Tip Vortices,"54th AIAA Aerospace Sciences Meeting, AIAA SciTech",10.2514/6.2016-3137,,
-conference,2016,"John A. Karasinski, Stephen K. Robinson, K. R. Duda and Z. Prasov",Development of real-time performance metrics for manually-guided spacecraft operations,"2016 IEEE Aerospace Conference",10.1109/AERO.2016.7500734,,
-conference,2015,Richard D. Joyce and Stephen K. Robinson,The Rapidly Reconfigurable Research Cockpit,"AIAA Modeling and Simulation Technologies Conference, AIAA Aviation",10.2514/6.2015-2336,,
-conference,2015,Daniel G. Schauerhamer and Stephen K. Robinson,Simulating Aircraft Wake Vortices with OVERFLOW,"33rd AIAA Applied Aerodynamics Conference, AIAA Aviation",10.2514/6.2015-3301,,
-thesis,2015,"Stich, Melanie K.","Computer Vision for Dual Spacecraft Proximity Operations - a Feasibility Study",,,http://pqdtopen.proquest.com/doc/1738859823.html?FMT=ABS,
-thesis,2014,"Blaesser, Nathaniel J.","Mission Analysis and Conceptual Design of a Space Ambulance Utilizing the Boeing X-37B Platform",,,,
-thesis,2014,"Handley, Patrick M.","A Pilot Model for the NASA Simplified Aid for EVA Rescue (SAFER)(Single-Axis Pitch Task)",,,,
+type,year,authors,title,publication,location,doi,url,status
+journal-upcoming,2017,Daniel G. Schauerhamer and Stephen K. Robinson,Computational Fluid Dynamics Best Practices for Aircraft Wing-Tip Vortex Roll-Up,"Journal of Aircraft",,,,Submitted
+journal-upcoming,2017,Richard Joyce and Stephen K. Robinson,Evaluation of a mixed reality cockpit prototyping tool,"Applied Ergonomics Special Issue",,,,Submitted
+conference-upcoming,2017,John A. Karasinski and Stephen K. Robinson,Real-Time Performance Feedback in a Manually-Controlled Spacecraft Inspection Task,"AIAA Modeling and Simulation Technologies Conference, AIAA SciTech","Grapevine, TX",,,Accepted
+conference-upcoming,2017,Richard D. Joyce and Stephen K. Robinson,Passive Haptics to Enhance Virtual Reality Simulations,"AIAA Modeling and Simulation Technologies Conference, AIAA SciTech","Grapevine, TX",,,Accepted
+conference-upcoming,2017,Daniel G. Schauerhamer and Stephen K. Robinson,Aircraft Geometry Effects in Wake Vortex Decay Simulations,"AIAA SciTech","Grapevine, TX",,,Accepted
+conference-upcoming,2016,"E. Etan Halberg, Stephen K. Robinson, Rina Onishi and Nathaniel J. Blaesser","An ISS Space Ambulance Based on X-37B Technology",AIAA SPACE,"San Diego, CA",,,Accepted
+conference-upcoming,2016,Alan J. Carey and Stephen K. Robinson,An Unpowered Exoskeleton to Reduce Astronaut Hand Fatigue during Microgravity Extra Vehicular Activity (EVA),AIAA SPACE,"San Diego, CA",,,Accepted
+conference,2016,Daniel G. Schauerhamer and Stephen K. Robinson,Sensitivity Study of Aircraft Wake Vortices Using OVERFLOW (Invited),"8th AIAA Atmospheric and Space Environments Conference, AIAA Aviation","Washington, DC",10.2514/6.2016-3137,,
+conference,2016,"Louis M. Edelman, Alejandro Pensado, Stephen K. Robinson and C.P. Van Dam",Low-Cost Detection of Boundary Layer Separation with Dynamic Pressure Measurements,"8th AIAA Atmospheric and Space Environments Conference, AIAA Aviation","Washington, DC",10.2514/6.2016-3623,,
+conference,2016,Daniel G. Schauerhamer and Stephen K. Robinson,A Validation Study of OVERFLOW for Wing-Tip Vortices,"54th AIAA Aerospace Sciences Meeting, AIAA SciTech","San Diego, CA",10.2514/6.2016-1782,,
+conference,2016,"John A. Karasinski, Stephen K. Robinson, K. R. Duda and Z. Prasov",Development of real-time performance metrics for manually-guided spacecraft operations,"2016 IEEE Aerospace Conference","Big Sky, MT",10.1109/AERO.2016.7500734,,
+conference,2015,Richard D. Joyce and Stephen K. Robinson,The Rapidly Reconfigurable Research Cockpit,"AIAA Modeling and Simulation Technologies Conference, AIAA Aviation","Dallas, TX",10.2514/6.2015-2336,,
+conference,2015,Daniel G. Schauerhamer and Stephen K. Robinson,Simulating Aircraft Wake Vortices with OVERFLOW,"33rd AIAA Applied Aerodynamics Conference, AIAA Aviation","Dallas, TX",10.2514/6.2015-3301,,
+conference,2015,"Kevin R. Duda, Zahar Prasov, Stephen P. York, John J. West, Stephen K. Robinson and Patrick M. Handley",Development of real-time performance metrics for manually-guided spacecraft operations,"2015 IEEE Aerospace Conference","Big Sky, MT",10.1109/AERO.2015.7118974,,
+conference,2015,"Patrick M. Handley, Stephen K. Robinson, Kevin R. Duda, Zahar Prasov, Stephen P. York, John J. West","Real-Time Performance Metrics for SAFER Self-Rescue","2015 International Conference on Environmental Systems","Big Sky, MT",10.1109/AERO.2015.7118974,,
+thesis,2015,"Stich, Melanie K.","Computer Vision for Dual Spacecraft Proximity Operations - a Feasibility Study",,,,http://pqdtopen.proquest.com/doc/1738859823.html?FMT=ABS,
+thesis,2014,"Blaesser, Nathaniel J.","Mission Analysis and Conceptual Design of a Space Ambulance Utilizing the Boeing X-37B Platform",,,,http://gradworks.umi.com/15/85/1585047.html,
+thesis,2014,"Handley, Patrick M.","A Pilot Model for the NASA Simplified Aid for EVA Rescue (SAFER)(Single-Axis Pitch Task)",,,,http://gradworks.umi.com/15/65/1565672.html,

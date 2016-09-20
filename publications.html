@@ -8,6 +8,8 @@ layout: default
 {% for publication in site.data.publications %}
 {% if publication.type == "conference-upcoming" %}
 <li><b>{{ publication.authors }}</b> ({{publication.year}}). "{{ publication.title }}", <i>{{ publication.publication }}.</i> ({{ publication.status }})</li>
+{% elsif publication.type == "journal-upcoming" %}
+<li><b>{{ publication.authors }}</b> "{{ publication.title }}", <i>{{ publication.publication }}.</i> ({{ publication.status }})</li>
 {% endif %}
 {% endfor %}
 </ul>
