@@ -3,7 +3,7 @@ layout: default
 category: alumni
 title: 'Alex Tatro'
 last_name: 'Tatro'
-image: '/scraped/images/Alex%20Tatro.jpg'
+image: '/images/Alex%20Tatro.jpg'
 ---
 
 <img src="{{ page.image }}">

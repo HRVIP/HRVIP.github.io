@@ -3,7 +3,7 @@ layout: default
 category: alumni
 title: 'Donald Wang'
 last_name: 'Wang'
-image: '/scraped/images/Donald%20Wang.jpg'
+image: '/images/Donald%20Wang.jpg'
 ---
 
 <img src="{{ page.image }}">

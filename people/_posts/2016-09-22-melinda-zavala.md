@@ -3,7 +3,7 @@ layout: default
 category: alumni
 title: 'Melinda Zavala'
 last_name: 'Zavala'
-image: '/scraped/images/Melinda%20Zavala.jpg'
+image: '/images/Melinda%20Zavala.jpg'
 ---
 
 <img src="{{ page.image }}">

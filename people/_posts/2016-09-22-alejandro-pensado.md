@@ -3,7 +3,7 @@ layout: default
 category: alumni
 title: 'Alejandro Pensado'
 last_name: 'Pensado'
-image: '/scraped/images/Alejandro%20Pensado.jpg'
+image: '/images/Alejandro%20Pensado.jpg'
 ---
 
 <img src="{{ page.image }}">

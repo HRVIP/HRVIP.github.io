@@ -3,7 +3,7 @@ layout: default
 category: alumni
 title: 'Max Danilevsky'
 last_name: 'Danilevsky'
-image: '/scraped/images/Max%20Danilevsky.png'
+image: '/images/Max%20Danilevsky.png'
 ---
 
 <img src="{{ page.image }}">

@@ -3,7 +3,7 @@ layout: default
 category: alumni
 title: 'Andrew Neish'
 last_name: 'Neish'
-image: '/scraped/images/Andrew%20Neish.jpg'
+image: '/images/Andrew%20Neish.jpg'
 ---
 
 <img src="{{ page.image }}">

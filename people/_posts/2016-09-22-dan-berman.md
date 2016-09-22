@@ -3,7 +3,7 @@ layout: default
 category: alumni
 title: 'Dan Berman'
 last_name: 'Berman'
-image: '/scraped/images/Dan%20Berman.png'
+image: '/images/Dan%20Berman.png'
 ---
 
 <img src="{{ page.image }}">

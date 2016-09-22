@@ -3,7 +3,7 @@ layout: default
 category: alumni
 title: 'Patrick Handley'
 last_name: 'Handley'
-image: '/scraped/images/Patrick%20Handley.jpg'
+image: '/images/Patrick%20Handley.jpg'
 ---
 
 <img src="{{ page.image }}">

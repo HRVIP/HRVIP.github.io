@@ -3,7 +3,7 @@ layout: default
 category: alumni
 title: 'Brenna Joe'
 last_name: 'Joe'
-image: '/scraped/images/Brenna%20Joe.jpg'
+image: '/images/Brenna%20Joe.jpg'
 ---
 
 <img src="{{ page.image }}">

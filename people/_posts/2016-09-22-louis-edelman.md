@@ -3,7 +3,7 @@ layout: default
 category: alumni
 title: 'Louis Edelman'
 last_name: 'Edelman'
-image: '/scraped/images/Louis%20Edelman.jpg'
+image: '/images/Louis%20Edelman.jpg'
 ---
 
 <img src="{{ page.image }}">

@@ -3,7 +3,7 @@ layout: default
 category: alumni
 title: 'Eric Daoud-Attoyan'
 last_name: 'Daoud-Attoyan'
-image: '/scraped/images/Eric%20Daoud-Attoyan.png'
+image: '/images/Eric%20Daoud-Attoyan.png'
 ---
 
 <img src="{{ page.image }}">
