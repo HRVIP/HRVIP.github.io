@@ -1,7 +1,8 @@
 ---
 layout: default
-category: graduate
+category: master
 title: 'Hashmatullah Hasseeb'
+last_name: 'Hasseeb'
 image: '/images/Hashmatullah%20Hasseeb.jpg'
 ---
 

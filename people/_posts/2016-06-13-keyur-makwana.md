@@ -2,6 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Keyur Makwana'
+last_name: 'Makwana'
 image: '/images/Keyur%20Makwana.jpg'
 ---
 

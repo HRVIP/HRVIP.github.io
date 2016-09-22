@@ -2,6 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Russ Bryan'
+last_name: 'Bryan'
 image: '/images/Russ%20Bryan.jpeg'
 ---
 

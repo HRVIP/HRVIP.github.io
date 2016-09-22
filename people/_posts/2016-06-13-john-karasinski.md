@@ -1,7 +1,8 @@
 ---
 layout: default
-category: graduate
+category: phd
 title: 'John Karasinski'
+last_name: 'Karasinski'
 image: '/images/John%20Karasinski.jpeg'
 ---
 

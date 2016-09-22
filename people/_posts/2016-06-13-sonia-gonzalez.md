@@ -2,6 +2,7 @@
 layout: default
 category: undergraduate
 title: 'Sonia Gonzalez'
+last_name: 'Gonzalez'
 image: '/images/Sonia%20Gonzalez.jpg'
 ---
 

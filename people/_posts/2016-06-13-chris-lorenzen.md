@@ -1,7 +1,8 @@
 ---
 layout: default
-category: graduate
+category: phd
 title: 'Chris Lorenzen'
+last_name: 'Lorenzen'
 image: '/images/Chris%20Lorenzen.jpg'
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: default
-category: graduate
+category: phd
 title: 'Logan Halstrom'
+last_name: 'Halstrom'
 image: '/images/Logan%20Halstrom.jpg'
 ---
 

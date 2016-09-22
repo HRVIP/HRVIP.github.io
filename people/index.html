@@ -1,7 +1,8 @@
 ---
 layout: post
-title: People
 ---
+
+<h3>Directors</h3>
 {% for post in site.posts %}
   {% if post.categories contains 'professor' %}
     <div class="post person-post">
@@ -19,8 +20,10 @@ title: People
 
 <br><br>
 
-{% for post in site.posts %}
-  {% if post.categories contains 'graduate' %}
+{% assign sorted_posts = (site.posts | sort: 'last_name') %}
+<h3>PhD Students</h3>
+{% for post in sorted_posts %}
+  {% if post.categories contains 'phd' %}
     <div class="post person-post">
         <h3 class="title center-title">
             <a href="{{ post.url }}">{{ post.title }}
@@ -36,7 +39,26 @@ title: People
 
 <br><br>
 
-{% for post in site.posts %}
+<h3>Masters Students</h3>
+{% for post in sorted_posts %}
+  {% if post.categories contains 'master' %}
+    <div class="post person-post">
+        <h3 class="title center-title">
+            <a href="{{ post.url }}">{{ post.title }}
+                <br>
+                <div class="container">
+                    <img class="person" src={{ post.image }}>
+                </div>
+            </a>
+        </h3>
+    </div>
+  {% endif %}
+{% endfor %}
+
+<br><br>
+
+<h3>Undergraduate Students</h3>
+{% for post in sorted_posts %}
   {% if post.categories contains 'undergraduate' %}
     <div class="post person-post">
         <h3 class="title center-title">

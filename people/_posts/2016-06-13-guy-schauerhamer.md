@@ -1,7 +1,8 @@
 ---
 layout: default
-category: graduate
+category: phd
 title: 'Guy Schauerhamer'
+last_name: 'Schauerhamer'
 image: '/images/Guy%20Schauerhamer.png'
 ---
 

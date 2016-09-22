@@ -1,7 +1,8 @@
 ---
 layout: default
-category: graduate
+category: phd
 title: 'Sarah O’Meara'
+last_name: 'O’Meara'
 image: '/images/Sarah%20OMeara.jpg'
 ---
 

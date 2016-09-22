@@ -1,7 +1,8 @@
 ---
 layout: default
-category: graduate
+category: phd
 title: 'Richard Joyce (Lab Manager)'
+last_name: 'Joyce'
 image: '/images/Richard%20Joyce%20(Lab%20Manager).jpg'
 ---
 

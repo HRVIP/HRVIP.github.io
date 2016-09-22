@@ -1,7 +1,8 @@
 ---
 layout: default
-category: graduate
+category: master
 title: 'Etan Halberg'
+last_name: 'Halberg'
 image: '/images/Etan%20Halberg.jpeg'
 ---
 

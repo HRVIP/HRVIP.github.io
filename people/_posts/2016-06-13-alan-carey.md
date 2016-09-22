@@ -1,7 +1,8 @@
 ---
 layout: default
-category: graduate
+category: master
 title: 'Alan Carey'
+last_name: 'Carey'
 image: '/images/Alan%20Carey.jpg'
 ---
 

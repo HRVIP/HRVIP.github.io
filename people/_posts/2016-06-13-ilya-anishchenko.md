@@ -1,7 +1,8 @@
 ---
 layout: default
-category: graduate
+category: master
 title: 'Ilya Anishchenko'
+last_name: 'Anishchenko'
 image: '/images/Ilya%20Anishchenko.jpg'
 ---
 
