@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Russ Bryan'
 last_name: 'Bryan'
 image: '/images/Russ%20Bryan.jpeg'

@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Maxwell Drolet'
 last_name: 'Drolet'
 image: '/images/Maxwell%20Drolet.jpg'

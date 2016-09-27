@@ -10,5 +10,5 @@ image: '/images/Kasumi%20Kanetaka.jpeg'
 
 <h2 class="team-title">Kasumi Kanetaka</h2>
 <h4 class="team-position"></h4>
-<p>I am a rising sophomore at UC Davis, majoring Aerospace Engineering and going to double major with Mechanical Engineering. My research interests are in sustainable space exploration, especially the efficient way of removing space debris.</p>
+<p>Kasumi is a fourth year undergraduate student at UC Davis, majoring in Aerospace and Mechanical Engineering. Since Fall 2013, she is a member of Advanced Modeling Aeronautics Team (AMAT), a student club building RC airplane. In Summer 2015, she did a ten-week Mechanical Engineering internship at Technische Universität Dresden. Her research interests include human workload assessment and human-robot coexistence.</p>
 <ul class="team-member-other-info"></ul>

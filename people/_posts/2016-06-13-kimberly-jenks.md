@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Kimberly Jenks'
 last_name: 'Jenks'
 image: '/images/Kimberly%20Jenks.jpg'

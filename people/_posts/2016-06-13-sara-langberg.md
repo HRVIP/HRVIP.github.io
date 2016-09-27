@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Sara Langberg'
 last_name: 'Langberg'
 image: '/images/Sara%20Langberg.png'
