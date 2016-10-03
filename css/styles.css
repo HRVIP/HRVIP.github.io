@@ -402,3 +402,9 @@ footer {
   width: 150px;
   padding: 5px;
 }
+
+
+p img {
+  max-width: 300px;
+  max-height: 300px;
+}
