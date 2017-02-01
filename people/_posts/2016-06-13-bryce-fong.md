@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Bryce Fong'
 last_name: 'Fong'
 image: '/images/Bryce%20Fong.jpg'

@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Christopher Stevens'
 last_name: 'Stevens'
 image: '/images/Christopher%20Stevens.jpg'

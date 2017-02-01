@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Christopher Chighizola'
 last_name: 'Chighizola'
 image: '/images/Christopher%20Chighizola.jpg'
