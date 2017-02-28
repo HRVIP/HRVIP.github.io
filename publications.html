@@ -4,6 +4,7 @@ layout: default
 
 <h3>Publications</h3>
 
+{% comment %}
 <h4>Upcoming</h4>
 <ul>
     {% for publication in site.data.publications %}
@@ -18,6 +19,19 @@ layout: default
         {% endif %}
     {% endfor %}
 </ul>
+{% endcomment %}
+
+<h4>Journal Articles</h4>
+<ul>
+    {% for publication in site.data.publications %}
+        {% if publication.type == "journal" %}
+            <li>
+                <b>{{ publication.authors }}</b> ({{publication.year}}). <a href="http://dx.doi.org/{{ publication.doi }}">"{{ publication.title }}"</a>, <i>{{ publication.publication }}.</i>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
+
 
 <h4>Conference Proceedings</h4>
 <ul>
