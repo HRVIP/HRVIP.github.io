@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Keyur Makwana'
 last_name: 'Makwana'
 image: '/images/Keyur%20Makwana.jpg'
