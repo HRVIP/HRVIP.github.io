@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+
+<h3>Publications</h3>
+<a href="publications.html">View by type of publication.</a>
+
+{% comment %}
+This fails if there is an empty line or year in publications.csv...
+{% endcomment %}
+{% assign years = site.data.publications | map: 'year' | uniq | sort | reverse %}
+
+{% for year in years %}
+<h4>{{ year }}</h4>
+
+<ul>
+{% for publication in site.data.publications %}
+{% if publication.year == year %}
+{% if publication.type == "conference-upcoming" %}
+<li><b>{{ publication.authors }}</b> ({{publication.year}}). "{{ publication.title }}", <i>{{ publication.publication }}.</i> ({{ publication.status }})</li>
+{% elsif publication.type == "journal-upcoming" %}
+<li><b>{{ publication.authors }}</b> "{{ publication.title }}", <i>{{ publication.publication }}.</i> ({{ publication.status }})</li>
+{% elsif publication.type == "conference" %}
+<li><b>{{ publication.authors }}</b> ({{publication.year}}). <a href="http://dx.doi.org/{{ publication.doi }}">"{{ publication.title }}"</a>, <i>{{ publication.publication }}.</i></li>
+{% elsif publication.type == "thesis" %}
+	{% if publication.url ==  %}
+	<li><b>{{ publication.authors }}</b> ({{publication.year}}). "{{ publication.title }}", University of California, Davis. (Masters Thesis)</li>
+	{% else %}
+	<li><b>{{ publication.authors }}</b> ({{publication.year}}). <a href="{{publication.url}}">"{{ publication.title }}"</a>, University of California, Davis. (Masters Thesis)</li>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+{% endfor %}
