@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Adriana Henriquez'
 last_name: 'Henriquez'
 image: '/images/Adriana%20Henriquez.jpg'

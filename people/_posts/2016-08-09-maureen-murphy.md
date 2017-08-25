@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Maureen Murphy'
 last_name: 'Murphy'
 image: '/images/Maureen%20Murphy.jpg'

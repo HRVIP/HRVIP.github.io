@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Brandon Reddish'
 last_name: 'Reddish'
 image: '/images/Brandon%20Reddish.jpg'

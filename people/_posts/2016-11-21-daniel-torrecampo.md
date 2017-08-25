@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Daniel Torrecampo'
 last_name: 'Torrecampo'
 image: '/images/Daniel%20Torrecampo.jpg'
