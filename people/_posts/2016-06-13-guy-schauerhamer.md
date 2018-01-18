@@ -1,6 +1,6 @@
 ---
 layout: default
-category: phd
+category: alumni
 title: 'Guy Schauerhamer'
 last_name: 'Schauerhamer'
 image: '/images/Guy%20Schauerhamer.png'

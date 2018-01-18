@@ -1,14 +1,14 @@
 ---
 layout: default
 category: phd
-title: 'Richard Joyce (Lab Manager)'
+title: 'Richard Joyce'
 last_name: 'Joyce'
-image: '/images/Richard%20Joyce%20(Lab%20Manager).jpg'
+image: '/images/Richard%20Joyce.jpg'
 ---
 
 <img src="{{ page.image }}">
 
-<h2 class="team-title">Richard Joyce (Lab Manager)</h2>
+<h2 class="team-title">Richard Joyce</h2>
 <h4 class="team-position"></h4>
 <p>M.S. Mechanical and Aerospace Engineering, UC Davis 2013<br/>
 B.S. Applied Physics, Columbia University, 2009</p>
