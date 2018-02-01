@@ -264,7 +264,6 @@ footer {
   }
   .title span {
       display: block;
-      overflow: auto;
       text-align: left;
   }
   header h1 {
