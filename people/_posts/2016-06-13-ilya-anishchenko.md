@@ -1,6 +1,6 @@
 ---
 layout: default
-category: master
+category: alumni
 title: 'Ilya Anishchenko'
 last_name: 'Anishchenko'
 image: '/images/Ilya%20Anishchenko.jpg'

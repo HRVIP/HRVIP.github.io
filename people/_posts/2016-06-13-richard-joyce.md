@@ -1,6 +1,6 @@
 ---
 layout: default
-category: phd
+category: alumni
 title: 'Richard Joyce'
 last_name: 'Joyce'
 image: '/images/Richard%20Joyce.jpg'

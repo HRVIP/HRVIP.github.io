@@ -1,6 +1,6 @@
 ---
 layout: default
-category: master
+category: alumni
 title: 'Etan Halberg'
 last_name: 'Halberg'
 image: '/images/Etan%20Halberg.jpeg'
