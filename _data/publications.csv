@@ -1,6 +1,7 @@
 type,year,authors,title,publication,location,doi,url,status
 journal,2017,Patrick M. Handley and Ronald A. Hess and Stephen K. Robinson,Descriptive Pilot Model for the NASA Simplified Aid for Extravehicular Activity Rescue,"Journal of Guidance, Control, and Dynamics",,10.2514/1.G003131,,
 journal,2017,Daniel G. Schauerhamer and Stephen K. Robinson,Computational Fluid Dynamics Best Practices for Aircraft Wing-Tip Vortex Roll-Up,AIAA Journal of Aircraft,,10.2514/1.C034187,,
+conference,2019,"John A. Karasinski and Stephen K. Robinson",Evaluating Augmented Reality in a Three-Axis Manual Tracking Task,"AIAA Modeling and Simulation Technologies Conference, AIAA SciTech","San Diego, California",10.2514/6.2019-1227,,
 conference,2017,"John A. Karasinski, Stephen K. Robinson, Patrick Handley and Kevin Duda",Real-Time Performance Feedback in a Manually-Controlled Spacecraft Inspection Task,"AIAA Modeling and Simulation Technologies Conference, AIAA SciTech","Grapevine, TX",10.2514/6.2017-1314,,
 conference,2017,Richard D. Joyce and Stephen K. Robinson,Passive Haptics to Enhance Virtual Reality Simulations,"AIAA Modeling and Simulation Technologies Conference, AIAA SciTech","Grapevine, TX",10.2514/6.2017-1313,,
 conference,2017,Daniel G. Schauerhamer and Stephen K. Robinson,Towards Simulating the Evolution of Aircraft Wake Vortices with OVERFLOW,AIAA SciTech,"Grapevine, TX",10.2514/6.2017-0956,,
