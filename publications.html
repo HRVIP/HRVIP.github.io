@@ -50,6 +50,25 @@ layout: default
     {% endfor %}
 </ul>
 
+<h3>Dissertations</h3>
+<ul>
+    {% for publication in site.data.publications %}
+    {% if publication.type == "dissertation" %}
+    {% if publication.url ==  %}
+    <li>
+        <b>{{ publication.authors }}</b> ({{publication.year}}). "{{ publication.title }}", University of California,
+        Davis.
+    </li>
+    {% else %}
+    <li>
+        <b>{{ publication.authors }}</b> ({{publication.year}}). <a
+            href="{{publication.url}}">"{{ publication.title }}"</a>, University of California, Davis.
+    </li>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</ul>
+
 <h3>Masters Theses</h3>
 <ul>
     {% for publication in site.data.publications %}
