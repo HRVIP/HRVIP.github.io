@@ -1,6 +1,6 @@
 ---
 layout: default
-category: master
+category: alumni
 title: 'Hashmatullah Hasseeb'
 last_name: 'Hasseeb'
 image: '/images/Hashmatullah%20Hasseeb.jpg'
