@@ -1,20 +1,18 @@
 ---
 layout: post
 ---
-<h3>Directors</h3>
-{% for post in site.posts %}
-  {% if post.categories contains 'professor' %}
-    <div class="post person-post">
-      <h3 class="title center-title">
-      <a href="{{ post.url }}">{{ post.title }}
-        <br>
-        <div class="container">
-          <img class="person" src={{ post.image }}>
-        </div>
-      </a>
-      </h3>
-    </div>
-  {% endif %}
+{% assign professors = (site.posts | where: 'category', 'professor' | sort: 'order') %}
+{% for post in professors %}
+  <div class="post person-post">
+    <h3 class="title center-title"> {{ post.title }} <br>
+    <a href="{{ post.url }}">{{ post.name }}
+      <br>
+      <div class="container mt-5">
+        <img class="person" src={{ post.image }}>
+      </div>
+    </a>
+    </h3>
+  </div>
 {% endfor %}
 <br><br>
 {% assign sorted_posts = (site.posts | sort: 'last_name') %}
@@ -25,7 +23,7 @@ layout: post
       <h3 class="title center-title">
       <a href="{{ post.url }}">{{ post.title }}
         <br>
-        <div class="container">
+        <div class="container mt-5">
           <img class="person" src={{ post.image }}>
         </div>
       </a>
@@ -41,7 +39,7 @@ layout: post
       <h3 class="title center-title">
       <a href="{{ post.url }}">{{ post.title }}
         <br>
-        <div class="container">
+        <div class="container mt-5">
           <img class="person" src={{ post.image }}>
         </div>
       </a>
@@ -57,7 +55,7 @@ layout: post
       <h3 class="title center-title">
       <a href="{{ post.url }}">{{ post.title }}
         <br>
-        <div class="container">
+        <div class="container mt-5">
           <img class="person" src={{ post.image }}>
         </div>
       </a>

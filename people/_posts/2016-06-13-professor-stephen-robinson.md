@@ -1,8 +1,10 @@
 ---
 layout: default
 category: professor
-title: 'Professor Stephen Robinson'
+name: 'Professor Stephen Robinson'
 image: '/images/Professor%20Stephen%20Robinson.jpg'
+order: 1
+title: 'Director'
 ---
 
 <img src="{{ page.image }}">

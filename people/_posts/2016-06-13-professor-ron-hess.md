@@ -1,8 +1,10 @@
 ---
 layout: default
 category: professor
-title: 'Professor Ron Hess'
+name: 'Professor Ron Hess'
 image: '/images/Professor%20Ron%20Hess.jpg'
+order: 2
+title: 'Co-Director'
 ---
 
 <img src="{{ page.image }}">
