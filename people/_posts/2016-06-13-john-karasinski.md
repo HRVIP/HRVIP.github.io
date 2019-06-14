@@ -3,7 +3,7 @@ layout: default
 category: phd
 title: 'John Karasinski'
 last_name: 'Karasinski'
-image: '/images/John%20Karasinski.jpeg'
+image: '/images/John%20Karasinski.jpg'
 ---
 
 <img src="{{ page.image }}">
