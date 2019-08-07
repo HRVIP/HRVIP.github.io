@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Nelson Flores'
 last_name: 'Flores'
 image: '/images/Nelson%20Flores.jpg'
