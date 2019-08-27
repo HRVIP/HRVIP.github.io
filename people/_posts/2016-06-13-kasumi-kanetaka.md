@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: associate
 title: 'Kasumi Kanetaka'
 last_name: 'Kanetaka'
 image: '/images/Kasumi%20Kanetaka.jpeg'

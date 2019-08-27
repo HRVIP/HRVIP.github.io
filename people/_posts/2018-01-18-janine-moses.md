@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: associate
 title: 'Janine Moses'
 last_name: 'Moses'
 image: '/images/Janine%20Moses.jpg'

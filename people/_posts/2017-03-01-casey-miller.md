@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: associate
 title: 'Casey Miller'
 last_name: 'Miller'
 image: '/images/Casey%20Miller.jpg'
