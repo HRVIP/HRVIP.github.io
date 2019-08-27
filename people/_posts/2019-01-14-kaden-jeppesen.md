@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: alumni
 title: 'Kaden Jeppesen'
 last_name: 'Jeppesen'
 image: '/images/Kaden%20Jeppesen.jpg'
