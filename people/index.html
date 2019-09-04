@@ -15,7 +15,7 @@ layout: post
 </div>
 {% endfor %}
 <br><br>
-{% assign associates = (site.posts | where: 'category', 'associate' | sort: 'order') %}
+{% assign associates = (site.posts | where: 'category', 'associate' | sort: 'last_name') %}
 <h3>Associates</h3>
 {% for post in associates %}
 <div class="post person-post">
