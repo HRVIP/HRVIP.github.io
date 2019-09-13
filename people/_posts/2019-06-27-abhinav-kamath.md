@@ -14,11 +14,15 @@ image: '/images/Abhinav%20Kamath.jpg'
 <p>B.E. in Electronics & Communication Engineering, MSRIT, 2018
 </p>
 <p>
-After graduating with a Bachelor's degree in Electronics & Communication Engineering with distinction, Abhi is currently pursuing a Master's degree in Mechanical & Aerospace Engineering at the University of California, Davis, with a focus on aerospace control systems. His current research is regarding autonomous precision landing of spacecraft, and his work involves the development of a testbed to simulate the intrinsic dynamics of a lunar landing vehicle and to test out novel control strategies and GNC algorithms here, on Earth. This research would enable the development of a low-cost physical platform for the simulation of both launch and landing vehicles, and would help advance human and robotic spaceflight missions in the years to come.
+After graduating with a Bachelor’s degree in Electronics & Communication Engineering with distinction, Abhi is now pursuing a Master’s degree in Mechanical & Aerospace Engineering at the University of California, Davis, with a focus on aerospace control systems and robotics.
 <br>
 <br>
-Abhi is a part of the Hyperloop team of UC Davis, which is a top-21 team out of more than 1200 participating universities across the globe, and he will be visiting the SpaceX HQ to take part in the final round of the 2019 Hyperloop Pod Competition. He is working on the control system of the pod, and his work includes the implementation of sensors and pod communications. Abhi is also the Communication Systems Lead for the Space & Satellite Systems Club, and is currently working on the REALOP nano-satellite mission of UC Davis, which is scheduled for launch in early 2021 through NASA's ELaNa program. He has also undertaken several projects at UC Davis, such as 'Robust Optimal Autopilot Design for Hypersonic Reentry Thrust Vector Control of Rockets', 'Reverse-Engineering & Upgrade of the Transiting Exoplanet Survey Satellite' and 'PHY Implementation of IEEE 802.11a Using USRP SDRs', to name a few.
+He is currently conducting research on autonomous precision landing technology for spacecraft, including powered-descent trajectory optimization, control law design and GNC algorithm development. He is also working on designing a physical testbed to achieve reduced gravity and to implement the developed algorithms in real-time, in order to simulate vision-based autonomous precision lunar-landing here, on Earth.
 <br>
 <br>
-Abhi represented the UC Davis Table-Tennis team at the first NCTTA divisional tournament of the academic year 2018-2019, and was instrumental in defeating Stanford University. Apart from the sport, he likes to play the piano and build toy rockets in his spare time.</p>
+Abhi is currently the <em>Chief Systems Engineer</em> for OneLoop (Hyperloop at UC Davis), in preparation for the 2020 SpaceX Hyperloop Pod Competition. In the 2019 competition, the team made it to the final round (top 21), out of more than 1200 participating universities across the globe. At the week-long competition at the SpaceX HQ, the team placed 3rd in the US and top-ten overall, based on the number of tests passed. Abhi is also the <em>Communication Systems Lead</em> for Space & Satellite Systems at UC Davis, and is currently working on the REALOP nano-satellite mission, which is scheduled for launch in early 2021 through NASA’s ELaNa program.
+<br>
+<br>
+Abhi represented the UC Davis Table-Tennis team at the first NCTTA divisional tournament of the academic year 2018-2019, and was instrumental in defeating Stanford University. Apart from the sport, he likes to play the piano and build toy rockets in his spare time.
+</p>
 <ul class="team-member-other-info"></ul>

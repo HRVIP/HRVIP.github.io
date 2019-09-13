@@ -3,7 +3,7 @@ layout: default
 category: undergraduate
 title: 'Ruby Houchens'
 last_name: 'Houchens'
-image: '/images/Ruby%20Houchens.jpeg'
+image: '/images/Ruby%20Houchens.jpg'
 ---
 
 <img src="{{ page.image }}">

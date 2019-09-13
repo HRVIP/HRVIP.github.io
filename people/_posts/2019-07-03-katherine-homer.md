@@ -3,7 +3,7 @@ layout: default
 category: undergraduate
 title: 'Katherine Homer'
 last_name: 'Homer'
-image: '/images/Katherine%20Homer.jpg'
+image: '/images/Katherine%20Homer.jpeg'
 ---
 
 <img src="{{ page.image }}">
