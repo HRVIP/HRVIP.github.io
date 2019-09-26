@@ -26,6 +26,12 @@ This fails if there is an empty line or year in publications.csv...
 					<b>{{ publication.authors }}</b> "{{ publication.title }}",
 					<i>{{ publication.publication }}.</i> ({{ publication.status }})
 				</li>
+			{% elsif publication.type == "journal" %}
+				<li>
+					<b>{{ publication.authors }}</b> ({{publication.year}}).
+					<a href="http://dx.doi.org/{{ publication.doi }}">"{{ publication.title }}"</a>,
+					<i>{{ publication.publication }}.</i>
+				</li>
 			{% elsif publication.type == "conference" %}
 				<li>
 					<b>{{ publication.authors }}</b> ({{publication.year}}).
