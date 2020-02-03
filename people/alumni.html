@@ -2,6 +2,7 @@
 layout: post
 ---
 {% assign sorted_posts = (site.categories.alumni | sort: 'last_name') %}
+<h2>Alumni Members</h2>
 <h3>PhDs</h3>
 {% for post in sorted_posts %}
 {% if post.categories contains 'phd' %}
