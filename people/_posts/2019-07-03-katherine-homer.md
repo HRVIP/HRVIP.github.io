@@ -1,6 +1,6 @@
 ---
 layout: default
-category: undergraduate
+category: associate
 title: 'Katherine Homer'
 last_name: 'Homer'
 image: '/images/Katherine%20Homer.jpeg'

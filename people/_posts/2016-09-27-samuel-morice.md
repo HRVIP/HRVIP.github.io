@@ -1,6 +1,6 @@
 ---
 layout: default
-category: master
+category: alumni
 title: 'Samuel Morice'
 last_name: 'Morice'
 image: '/images/Sam%20Morice.jpg'
