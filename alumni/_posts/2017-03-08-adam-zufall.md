@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Adam Zufall'
 last_name: 'Zufall'
 image: '/images/Adam%20Zufall.jpg'

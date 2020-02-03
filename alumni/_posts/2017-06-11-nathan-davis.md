@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Nathan Davis'
 last_name: 'Davis'
 image: '/images/Nathan%20Davis.jpg'

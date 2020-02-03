@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: master
 title: 'Eric Daoud-Attoyan'
 last_name: 'Daoud-Attoyan'
 image: '/images/Eric%20Daoud-Attoyan.png'

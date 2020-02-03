@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Gladys Abapo'
 last_name: 'Abapo'
 image: '/images/Gladys%20Abapo.jpg'

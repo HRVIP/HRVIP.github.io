@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Sonia Gonzalez'
 last_name: 'Gonzalez'
 image: '/images/Sonia%20Gonzalez.jpg'

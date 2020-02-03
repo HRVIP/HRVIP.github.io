@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Connie Yuan'
 last_name: 'Yuan'
 image: '/images/Connie%20Yuan.jpg'

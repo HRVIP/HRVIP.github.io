@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: master
 title: 'Nat Blaesser'
 last_name: 'Blaesser'
 image: '/images/Nat%20Blaesser.jpg'

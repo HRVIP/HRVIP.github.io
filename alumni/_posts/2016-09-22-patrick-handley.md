@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: master
 title: 'Patrick Handley'
 last_name: 'Handley'
 image: '/images/Patrick%20Handley.jpg'

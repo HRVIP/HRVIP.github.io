@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Bruno Matsui'
 last_name: 'Matsui'
 image: '/images/Bruno%20Matsui.jpg'

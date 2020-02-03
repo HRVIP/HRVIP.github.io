@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: master
 title: 'Molly O’Connor'
 last_name: 'O’Connor'
 image: '/images/Molly%20OConnor.jpeg'

@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Max Danilevsky'
 last_name: 'Danilevsky'
 image: '/images/Max%20Danilevsky.png'

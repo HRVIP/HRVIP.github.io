@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Tanisha Potnis'
 last_name: 'Potnis'
 image: '/images/Tanisha%20Potnis.jpg'

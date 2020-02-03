@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Russel Manalo'
 last_name: 'Manalo'
 image: '/images/Russel%20Manalo.jpg'

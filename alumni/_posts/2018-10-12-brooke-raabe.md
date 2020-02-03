@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Brooke Raabe'
 last_name: 'Raabe'
 image: '/images/Brooke%20Raabe.jpg'

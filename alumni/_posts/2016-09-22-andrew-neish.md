@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Andrew Neish'
 last_name: 'Neish'
 image: '/images/Andrew%20Neish.jpg'

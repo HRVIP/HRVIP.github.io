@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Ashley Coates'
 last_name: 'Coates'
 image: '/images/Ashley%20Coates.jpg'

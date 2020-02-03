@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Alejandro Pensado'
 last_name: 'Pensado'
 image: '/images/Alejandro%20Pensado.jpg'

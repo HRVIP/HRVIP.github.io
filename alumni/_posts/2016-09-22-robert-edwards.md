@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Robert Edwards'
 last_name: 'Edwards'
 image: '/images/Robert%20Edwards.png'

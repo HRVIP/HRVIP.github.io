@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Bryan Zhao'
 last_name: 'Zhao'
 image: '/images/Bryan%20Zhao.png'

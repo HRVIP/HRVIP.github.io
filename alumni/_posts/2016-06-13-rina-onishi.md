@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Rina Onishi'
 last_name: 'Onishi'
 image: '/images/Rina%20Onishi.jpg'

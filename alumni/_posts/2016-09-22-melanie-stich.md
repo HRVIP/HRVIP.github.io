@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: master
 title: 'Melanie Stich'
 last_name: 'Stich'
 image: '/images/Melanie%20Stich.jpg'

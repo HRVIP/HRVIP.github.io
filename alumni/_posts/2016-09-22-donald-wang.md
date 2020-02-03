@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Donald Wang'
 last_name: 'Wang'
 image: '/images/Donald%20Wang.jpg'

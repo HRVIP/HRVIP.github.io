@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Alex Tatro'
 last_name: 'Tatro'
 image: '/images/Alex%20Tatro.jpg'

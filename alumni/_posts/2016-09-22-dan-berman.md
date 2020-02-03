@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Dan Berman'
 last_name: 'Berman'
 image: '/images/Dan%20Berman.png'

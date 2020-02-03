@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni 
+category: undergraduate
 title: 'Venkata Devalaraju'
 last_name: 'Devalaraju'
 image: '/images/Venkata%20Devalaraju.jpg'

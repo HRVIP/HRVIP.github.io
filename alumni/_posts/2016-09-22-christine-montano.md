@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Christine Montano'
 last_name: 'Montano'
 image: '/images/Christine%20Montano.jpg'

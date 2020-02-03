@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Lauren Campbell'
 last_name: 'Campbell'
 image: '/images/Lauren%20Campbell.jpg'

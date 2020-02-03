@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Melinda Zavala'
 last_name: 'Zavala'
 image: '/images/Melinda%20Zavala.jpg'

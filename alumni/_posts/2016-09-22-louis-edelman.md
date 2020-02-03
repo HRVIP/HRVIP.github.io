@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Louis Edelman'
 last_name: 'Edelman'
 image: '/images/Louis%20Edelman.jpg'

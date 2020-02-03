@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: undergraduate
 title: 'Brenna Joe'
 last_name: 'Joe'
 image: '/images/Brenna%20Joe.jpg'
