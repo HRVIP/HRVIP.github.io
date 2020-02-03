@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-{% assign professors = (site.posts | where: 'category', 'professor' | sort: 'order') %}
+{% assign professors = (site.categories.people | where: 'category', 'professor' | sort: 'order') %}
 {% for post in professors %}
 <div class="post person-post">
   <h3 class="title center-title"> {{ post.title }} <br>
@@ -15,7 +15,7 @@ layout: post
 </div>
 {% endfor %}
 <br><br>
-{% assign associates = (site.posts | where: 'category', 'associate' | sort: 'last_name') %}
+{% assign associates = (site.categories.people | where: 'category', 'associate' | sort: 'last_name') %}
 <h3>Associates</h3>
 {% for post in associates %}
 <div class="post person-post">
@@ -30,7 +30,7 @@ layout: post
 </div>
 {% endfor %}
 <br><br>
-{% assign sorted_posts = (site.posts | sort: 'last_name') %}
+{% assign sorted_posts = (site.categories.people | sort: 'last_name') %}
 <h3>PhD Students</h3>
 {% for post in sorted_posts %}
 {% if post.categories contains 'phd' %}

@@ -1,6 +1,6 @@
 ---
 layout: default
-category: alumni
+category: master
 title: 'Alan Carey'
 last_name: 'Carey'
 image: '/images/Alan%20Carey.jpg'
