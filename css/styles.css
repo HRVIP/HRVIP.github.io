@@ -56,7 +56,7 @@ a:hover small {
 }
 
 .wrapper {
-  width: 860px;
+  width: 1020px;
   margin: 0 auto;
 }
 
@@ -175,7 +175,7 @@ header ul a strong {
 }
 
 section {
-  width: 500px;
+  width: 660px;
   float: right;
   padding-bottom: 50px;
 }
@@ -202,7 +202,7 @@ footer {
 /* place title and logo on side */
 
 .title {
-  max-width: 500px;
+  max-width: 660px;
   padding: 10px;
   padding-bottom: 5px;
 }
@@ -223,7 +223,7 @@ footer {
   margin-top: 5px;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1120px) {
   div.wrapper {
     width: auto;
     margin: 0;
@@ -249,7 +249,7 @@ footer {
   }
   /* place title and logo on top */
   .title {
-    max-width: 500px;
+    max-width: 660px;
     height: 100px;
     padding: 10px;
     padding-bottom: 5px;
@@ -285,7 +285,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 550px) {
+@media print, screen and (max-width: 710px) {
   body {
     padding: 15px;
   }
@@ -297,7 +297,7 @@ footer {
   }
   /* place title and logo on top */
   .title {
-    max-width: 500px;
+    max-width: 660px;
     padding: 10px;
     padding-bottom: 5px;
     height: auto;
