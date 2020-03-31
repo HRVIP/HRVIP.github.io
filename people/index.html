@@ -15,6 +15,21 @@ layout: post
 </div>
 {% endfor %}
 <br><br>
+{% assign senior_researchers = (site.categories.people | where: 'category', 'senior_researcher' | sort: 'last_name') %}
+<h3>Senior Researchers</h3>
+{% for post in senior_researchers %}
+<div class="post person-post">
+  <h3 class="title center-title">
+    <a href="{{ post.url }}">{{ post.title }}
+      <br>
+      <div class="container mt-5">
+        <img class="person" src={{ post.image }}>
+      </div>
+    </a>
+  </h3>
+</div>
+{% endfor %}
+<br><br>
 {% assign associates = (site.categories.people | where: 'category', 'associate' | sort: 'last_name') %}
 <h3>Associate Researchers</h3>
 {% for post in associates %}
