@@ -1,6 +1,6 @@
 ---
 layout: default
-category: associate
+category: senior_researcher
 title: 'Melodie Yashar'
 last_name: 'Yashar'
 image: '/images/Melodie%20Yashar.png'
