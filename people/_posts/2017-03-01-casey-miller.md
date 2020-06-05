@@ -1,6 +1,6 @@
 ---
 layout: default
-category: associate
+category: master
 title: 'Casey Miller'
 last_name: 'Miller'
 image: '/images/Casey%20Miller.jpg'
