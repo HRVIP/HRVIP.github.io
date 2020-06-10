@@ -11,5 +11,5 @@ image: '/images/Ruby%20Houchens.jpg'
 <h2 class="team-title">Ruby Houchens</h2>
 <h4 class="team-position"></h4>
 
-<p>I am 2nd year undergraduate majoring in mechanical engineering. I am a member of the structures team for OneLoop (Hyperloop team), elected vice president of internal affairs for Engineers Without Borders, and a member of Davis Swing Dancers. In my free time I enjoy hiking, biking, rock climbing, photography, and traveling.</p>
+<p>Ruby is a 3rd year undergraduate studying mechanical engineering. She is a shop tech in the Engineering Student Design Center, a founding member of the Women Machinists' Club, and former VP of Engineers Without Borders. She is also a swing dancer with Davis Swing Dancers, a photographer, former circus camper, and jiu jitsu enthusiast. She is interning with NASA JSC for Summer 2020 in SK3, and thoroughly enjoys learning how to use engineering to improve the safety of EVAs and other awesome, dangerous activities.</p>
 <ul class="team-member-other-info"></ul>
