@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Melanie Stich'
+name: 'Melanie Stich'
 last_name: 'Stich'
 image: '/images/Melanie%20Stich.jpg'
 ---

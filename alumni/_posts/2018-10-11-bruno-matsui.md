@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Bruno Matsui'
+name: 'Bruno Matsui'
 last_name: 'Matsui'
 image: '/images/Bruno%20Matsui.jpg'
 ---

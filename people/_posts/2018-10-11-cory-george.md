@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Cory George'
+name: 'Cory George'
 last_name: 'George'
 image: '/images/Cory%20George.jpg'
 ---

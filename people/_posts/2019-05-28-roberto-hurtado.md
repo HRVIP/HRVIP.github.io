@@ -1,7 +1,7 @@
 ---
 layout: default
-category: undergraduate
-title: 'Roberto Hurtado'
+category: associate
+name: 'Roberto Hurtado'
 last_name: 'Hurtado'
 image: '/images/Roberto%20Hurtado.jpg'
 ---

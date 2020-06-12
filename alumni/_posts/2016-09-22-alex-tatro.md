@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Alex Tatro'
+name: 'Alex Tatro'
 last_name: 'Tatro'
 image: '/images/Alex%20Tatro.jpg'
 ---

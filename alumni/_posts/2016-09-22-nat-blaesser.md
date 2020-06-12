@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Nat Blaesser'
+name: 'Nat Blaesser'
 last_name: 'Blaesser'
 image: '/images/Nat%20Blaesser.jpg'
 ---

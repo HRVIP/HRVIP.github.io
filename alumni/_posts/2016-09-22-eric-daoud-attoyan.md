@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Eric Daoud-Attoyan'
+name: 'Eric Daoud-Attoyan'
 last_name: 'Daoud-Attoyan'
 image: '/images/Eric%20Daoud-Attoyan.png'
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Nelson Flores'
+name: 'Nelson Flores'
 last_name: 'Flores'
 image: '/images/Nelson%20Flores.jpg'
 ---

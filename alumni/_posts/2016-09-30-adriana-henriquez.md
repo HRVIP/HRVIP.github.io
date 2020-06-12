@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Adriana Henriquez'
+name: 'Adriana Henriquez'
 last_name: 'Henriquez'
 image: '/images/Adriana%20Henriquez.jpg'
 ---

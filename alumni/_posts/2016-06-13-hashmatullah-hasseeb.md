@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Hashmatullah Hasseeb'
+name: 'Hashmatullah Hasseeb'
 last_name: 'Hasseeb'
 image: '/images/Hashmatullah%20Hasseeb.jpg'
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Brandon Reddish'
+name: 'Brandon Reddish'
 last_name: 'Reddish'
 image: '/images/Brandon%20Reddish.jpg'
 ---

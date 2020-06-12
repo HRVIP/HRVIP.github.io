@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Brenna Joe'
+name: 'Brenna Joe'
 last_name: 'Joe'
 image: '/images/Brenna%20Joe.jpg'
 ---

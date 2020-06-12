@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Lauren Campbell'
+name: 'Lauren Campbell'
 last_name: 'Campbell'
 image: '/images/Lauren%20Campbell.jpg'
 ---

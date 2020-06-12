@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Ashley Coates'
+name: 'Ashley Coates'
 last_name: 'Coates'
 image: '/images/Ashley%20Coates.jpg'
 ---

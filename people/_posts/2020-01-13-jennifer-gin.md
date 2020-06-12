@@ -1,7 +1,7 @@
 ---
 layout: default
 category: associate
-title: 'Jennifer Gin'
+name: 'Jennifer Gin'
 last_name: 'Gin'
 image: '/images/Jennifer%20Gin.jpeg'
 ---

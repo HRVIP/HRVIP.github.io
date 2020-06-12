@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Brooke Raabe'
+name: 'Brooke Raabe'
 last_name: 'Raabe'
 image: '/images/Brooke%20Raabe.jpg'
 ---

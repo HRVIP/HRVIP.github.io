@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Christopher Chighizola'
+name: 'Christopher Chighizola'
 last_name: 'Chighizola'
 image: '/images/Christopher%20Chighizola.jpg'
 ---

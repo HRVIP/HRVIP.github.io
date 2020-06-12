@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Katherine Homer'
+name: 'Katherine Homer'
 last_name: 'Homer'
 image: '/images/Katherine%20Homer.jpeg'
 ---

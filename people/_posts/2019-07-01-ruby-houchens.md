@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Ruby Houchens'
+name: 'Ruby Houchens'
 last_name: 'Houchens'
 image: '/images/Ruby%20Houchens.jpg'
 ---

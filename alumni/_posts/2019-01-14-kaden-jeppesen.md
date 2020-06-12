@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Kaden Jeppesen'
+name: 'Kaden Jeppesen'
 last_name: 'Jeppesen'
 image: '/images/Kaden%20Jeppesen.jpg'
 ---

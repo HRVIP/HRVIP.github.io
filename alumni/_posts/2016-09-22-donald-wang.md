@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Donald Wang'
+name: 'Donald Wang'
 last_name: 'Wang'
 image: '/images/Donald%20Wang.jpg'
 ---

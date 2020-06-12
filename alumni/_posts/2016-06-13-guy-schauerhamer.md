@@ -1,7 +1,7 @@
 ---
 layout: default
 category: phd
-title: 'Guy Schauerhamer'
+name: 'Guy Schauerhamer'
 last_name: 'Schauerhamer'
 image: '/images/Guy%20Schauerhamer.png'
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Ilya Anishchenko'
+name: 'Ilya Anishchenko'
 last_name: 'Anishchenko'
 image: '/images/Ilya%20Anishchenko.jpg'
 ---

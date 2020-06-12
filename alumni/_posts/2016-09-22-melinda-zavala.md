@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Melinda Zavala'
+name: 'Melinda Zavala'
 last_name: 'Zavala'
 image: '/images/Melinda%20Zavala.jpg'
 ---

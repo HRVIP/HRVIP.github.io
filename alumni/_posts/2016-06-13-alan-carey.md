@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Alan Carey'
+name: 'Alan Carey'
 last_name: 'Carey'
 image: '/images/Alan%20Carey.jpg'
 ---

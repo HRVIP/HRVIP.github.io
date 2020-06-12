@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Jason Ciola'
+name: 'Jason Ciola'
 last_name: 'Ciola'
 image: '/images/Jason%20Ciola.jpg'
 ---

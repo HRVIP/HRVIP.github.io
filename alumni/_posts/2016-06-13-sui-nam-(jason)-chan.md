@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Sui Nam (Jason) Chan'
+name: 'Sui Nam (Jason) Chan'
 last_name: 'Chan'
 image: '/images/Sui%20Nam%20(Jason)%20Chan.jpg'
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Etan Halberg'
+name: 'Etan Halberg'
 last_name: 'Halberg'
 image: '/images/Etan%20Halberg.jpeg'
 ---

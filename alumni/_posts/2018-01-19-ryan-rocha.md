@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Ryan Rocha'
+name: 'Ryan Rocha'
 last_name: 'Rocha'
 image: '/images/Ryan%20Rocha.jpg'
 ---

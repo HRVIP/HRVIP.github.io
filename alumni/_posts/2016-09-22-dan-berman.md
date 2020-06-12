@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Dan Berman'
+name: 'Dan Berman'
 last_name: 'Berman'
 image: '/images/Dan%20Berman.png'
 ---

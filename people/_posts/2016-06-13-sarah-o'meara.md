@@ -1,9 +1,11 @@
 ---
 layout: default
-category: phd
-title: 'Sarah O’Meara'
+category: [leadership,phd]
+name: 'Sarah O’Meara'
 last_name: 'O’Meara'
 image: '/images/Sarah%20OMeara.jpg'
+order: 2
+title: 'Chief Scientist'
 ---
 
 <img src="{{ page.image }}">

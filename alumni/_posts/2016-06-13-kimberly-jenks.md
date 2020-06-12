@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Kimberly Jenks'
+name: 'Kimberly Jenks'
 last_name: 'Jenks'
 image: '/images/Kimberly%20Jenks.jpg'
 ---

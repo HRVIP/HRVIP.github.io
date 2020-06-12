@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Robert Edwards'
+name: 'Robert Edwards'
 last_name: 'Edwards'
 image: '/images/Robert%20Edwards.png'
 ---

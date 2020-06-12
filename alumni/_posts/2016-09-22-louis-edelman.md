@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Louis Edelman'
+name: 'Louis Edelman'
 last_name: 'Edelman'
 image: '/images/Louis%20Edelman.jpg'
 ---

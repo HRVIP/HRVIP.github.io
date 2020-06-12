@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Nathan Davis'
+name: 'Nathan Davis'
 last_name: 'Davis'
 image: '/images/Nathan%20Davis.jpg'
 ---

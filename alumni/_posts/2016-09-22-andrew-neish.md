@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Andrew Neish'
+name: 'Andrew Neish'
 last_name: 'Neish'
 image: '/images/Andrew%20Neish.jpg'
 ---

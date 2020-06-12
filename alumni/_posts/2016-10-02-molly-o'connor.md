@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Molly O’Connor'
+name: 'Molly O’Connor'
 last_name: 'O’Connor'
 image: '/images/Molly%20OConnor.jpeg'
 ---

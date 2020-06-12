@@ -1,7 +1,7 @@
 ---
 layout: default
 category: phd
-title: 'Logan Halstrom'
+name: 'Logan Halstrom'
 last_name: 'Halstrom'
 image: '/images/Logan%20Halstrom.jpg'
 ---

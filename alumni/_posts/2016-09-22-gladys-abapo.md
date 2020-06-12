@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Gladys Abapo'
+name: 'Gladys Abapo'
 last_name: 'Abapo'
 image: '/images/Gladys%20Abapo.jpg'
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Samuel Morice'
+name: 'Samuel Morice'
 last_name: 'Morice'
 image: '/images/Sam%20Morice.jpg'
 ---

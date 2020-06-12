@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Max Danilevsky'
+name: 'Max Danilevsky'
 last_name: 'Danilevsky'
 image: '/images/Max%20Danilevsky.png'
 ---

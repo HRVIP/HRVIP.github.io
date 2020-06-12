@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Zhixiang (Tony) Chao'
+name: 'Zhixiang (Tony) Chao'
 last_name: 'Chao'
 image: '/images/Zhixiang%20Chao.jpg'
 ---

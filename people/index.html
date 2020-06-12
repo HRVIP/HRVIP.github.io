@@ -1,8 +1,10 @@
 ---
 layout: post
 ---
-{% assign professors = (site.categories.people | where: 'category', 'professor' | sort: 'order') %}
-{% for post in professors %}
+{% assign leadership = (site.categories.people | sort: 'order') %}
+<h3>HRVIP Lab Leadership</h3>
+{% for post in leadership %}
+{% if post.categories contains "leadership" %}
 <div class="post person-post">
   <h3 class="title center-title"> {{ post.title }} <br>
     <a href="{{ post.url }}">{{ post.name }}
@@ -13,6 +15,7 @@ layout: post
     </a>
   </h3>
 </div>
+{% endif %}
 {% endfor %}
 <br><br>
 {% assign senior_researchers = (site.categories.people | where: 'category', 'senior_researcher' | sort: 'last_name') %}
@@ -20,7 +23,7 @@ layout: post
 {% for post in senior_researchers %}
 <div class="post person-post">
   <h3 class="title center-title">
-    <a href="{{ post.url }}">{{ post.title }}
+    <a href="{{ post.url }}">{{ post.name }}
       <br>
       <div class="container mt-5">
         <img class="person" src={{ post.image }}>
@@ -35,7 +38,7 @@ layout: post
 {% for post in associates %}
 <div class="post person-post">
   <h3 class="title center-title">
-    <a href="{{ post.url }}">{{ post.title }}
+    <a href="{{ post.url }}">{{ post.name }}
       <br>
       <div class="container mt-5">
         <img class="person" src={{ post.image }}>
@@ -51,7 +54,10 @@ layout: post
 {% if post.categories contains 'phd' %}
 <div class="post person-post">
   <h3 class="title center-title">
-    <a href="{{ post.url }}">{{ post.title }}
+    <a href="{{ post.url }}">{{ post.name }}
+      {% if post.categories contains "leadership" %}
+      ({{ post.title }})
+      {% endif %}
       <br>
       <div class="container mt-5">
         <img class="person" src={{ post.image }}>
@@ -67,7 +73,7 @@ layout: post
 {% if post.categories contains 'master' %}
 <div class="post person-post">
   <h3 class="title center-title">
-    <a href="{{ post.url }}">{{ post.title }}
+    <a href="{{ post.url }}">{{ post.name }}
       <br>
       <div class="container mt-5">
         <img class="person" src={{ post.image }}>
@@ -83,7 +89,7 @@ layout: post
 {% if post.categories contains 'undergraduate' %}
 <div class="post person-post">
   <h3 class="title center-title">
-    <a href="{{ post.url }}">{{ post.title }}
+    <a href="{{ post.url }}">{{ post.name }}
       <br>
       <div class="container mt-5">
         <img class="person" src={{ post.image }}>
@@ -93,5 +99,55 @@ layout: post
 </div>
 {% endif %}
 {% endfor %}
-<h3>Alumni</h3>
-<a href="alumni.html">A complete list of alumni members is available here.</a>
+
+<br>
+<br>
+{% assign sorted_posts = (site.categories.alumni | sort: 'last_name') %}
+<h2>Alumni Members</h2>
+<h3>PhDs</h3>
+{% for post in sorted_posts %}
+{% if post.categories contains 'phd' %}
+<div class="post person-post">
+  <h3 class="title center-title">
+    <a href="{{ post.url }}">{{ post.name }}
+      <br>
+      <div class="container mt-5">
+        <img class="person" src={{ post.image }}>
+      </div>
+    </a>
+  </h3>
+</div>
+{% endif %}
+{% endfor %}
+<br><br>
+<h3>Masters</h3>
+{% for post in sorted_posts %}
+{% if post.categories contains 'master' %}
+<div class="post person-post">
+  <h3 class="title center-title">
+    <a href="{{ post.url }}">{{ post.name }}
+      <br>
+      <div class="container mt-5">
+        <img class="person" src={{ post.image }}>
+      </div>
+    </a>
+  </h3>
+</div>
+{% endif %}
+{% endfor %}
+<br><br>
+<h3>Bachelors</h3>
+{% for post in sorted_posts %}
+{% if post.categories contains 'undergraduate' %}
+<div class="post person-post">
+  <h3 class="title center-title">
+    <a href="{{ post.url }}">{{ post.name }}
+      <br>
+      <div class="container mt-5">
+        <img class="person" src={{ post.image }}>
+      </div>
+    </a>
+  </h3>
+</div>
+{% endif %}
+{% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Christopher Stevens'
+name: 'Christopher Stevens'
 last_name: 'Stevens'
 image: '/images/Christopher%20Stevens.jpg'
 ---

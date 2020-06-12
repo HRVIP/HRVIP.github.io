@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Maxwell Drolet'
+name: 'Maxwell Drolet'
 last_name: 'Drolet'
 image: '/images/Maxwell%20Drolet.jpg'
 ---

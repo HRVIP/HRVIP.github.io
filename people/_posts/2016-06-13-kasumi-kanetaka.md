@@ -1,7 +1,7 @@
 ---
 layout: default
-category: associate
-title: 'Kasumi Kanetaka'
+category: senior_researcher
+name: 'Kasumi Kanetaka'
 last_name: 'Kanetaka'
 image: '/images/Kasumi%20Kanetaka.jpeg'
 ---

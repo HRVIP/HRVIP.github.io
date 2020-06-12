@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Alejandro Pensado'
+name: 'Alejandro Pensado'
 last_name: 'Pensado'
 image: '/images/Alejandro%20Pensado.jpg'
 ---

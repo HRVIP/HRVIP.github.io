@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Tanisha Potnis'
+name: 'Tanisha Potnis'
 last_name: 'Potnis'
 image: '/images/Tanisha%20Potnis.jpg'
 ---

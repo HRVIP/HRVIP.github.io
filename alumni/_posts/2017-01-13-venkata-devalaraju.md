@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Venkata Devalaraju'
+name: 'Venkata Devalaraju'
 last_name: 'Devalaraju'
 image: '/images/Venkata%20Devalaraju.jpg'
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Janine Moses'
+name: 'Janine Moses'
 last_name: 'Moses'
 image: '/images/Janine%20Moses.jpg'
 ---

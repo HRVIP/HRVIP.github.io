@@ -1,6 +1,6 @@
 ---
 layout: default
-category: professor
+category: leadership
 name: 'Professor Stephen Robinson'
 image: '/images/Professor%20Stephen%20Robinson.jpg'
 order: 1

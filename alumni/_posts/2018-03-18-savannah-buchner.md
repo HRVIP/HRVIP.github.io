@@ -1,7 +1,7 @@
 ---
 layout: default
-category: associate
-title: 'Savannah Buchner'
+category: undergraduate
+name: 'Savannah Buchner'
 last_name: 'Buchner'
 image: '/images/Savannah%20Buchner.jpg'
 ---

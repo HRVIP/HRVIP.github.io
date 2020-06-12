@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Daniel Torrecampo'
+name: 'Daniel Torrecampo'
 last_name: 'Torrecampo'
 image: '/images/Daniel%20Torrecampo.jpg'
 ---

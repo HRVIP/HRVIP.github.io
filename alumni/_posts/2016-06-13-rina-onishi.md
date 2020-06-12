@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Rina Onishi'
+name: 'Rina Onishi'
 last_name: 'Onishi'
 image: '/images/Rina%20Onishi.jpg'
 ---

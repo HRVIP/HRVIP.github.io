@@ -1,7 +1,7 @@
 ---
 layout: default
 category: undergraduate
-title: 'Adam Zufall'
+name: 'Adam Zufall'
 last_name: 'Zufall'
 image: '/images/Adam%20Zufall.jpg'
 ---

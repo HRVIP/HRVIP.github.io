@@ -1,7 +1,7 @@
 ---
 layout: default
 category: associate
-title: 'James Thompson'
+name: 'James Thompson'
 last_name: 'Thompson'
 image: '/images/James%20Thompson.jpeg'
 ---

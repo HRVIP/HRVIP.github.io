@@ -1,10 +1,9 @@
 ---
 layout: default
-category: professor
+category: senior_researcher
 name: 'Professor Ron Hess'
+last_name: 'Hess'
 image: '/images/Professor%20Ron%20Hess.jpg'
-order: 2
-title: 'Co-Director'
 ---
 
 <img src="{{ page.image }}">

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: master
-title: 'Patrick Handley'
+name: 'Patrick Handley'
 last_name: 'Handley'
 image: '/images/Patrick%20Handley.jpg'
 ---

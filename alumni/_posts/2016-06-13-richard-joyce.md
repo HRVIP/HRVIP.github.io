@@ -1,7 +1,7 @@
 ---
 layout: default
 category: phd
-title: 'Richard Joyce'
+name: 'Richard Joyce'
 last_name: 'Joyce'
 image: '/images/Richard%20Joyce.jpg'
 ---
