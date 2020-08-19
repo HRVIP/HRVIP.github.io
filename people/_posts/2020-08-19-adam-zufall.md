@@ -12,6 +12,6 @@ image: '/images/Adam%20Zufall.jpg'
 <h4 class="team-position"></h4>
 
 <p>Bachelor’s Degree</p>
-<p>P1</p>
-<p>P2</p>
+<p> </p>
+<p> </p>
 <ul class="team-member-other-info"></ul>
