@@ -3,7 +3,7 @@ layout: default
 category: associate
 name: 'Adam Zufall'
 last_name: 'Zufall'
-image: '/images/Adam%20Zufall.jpeg'
+image: '/images/Adam%20Zufall.jpg'
 ---
 
 <img src="{{ page.image }}">
